@@ -1,12 +1,13 @@
 div img {
    width: 15%;
+   margin: 10px;
+   border: solid black 2.5px;
 }
 
 .background{
    width: 100%;
 }
 
-body {
-   padding: 0;
-   margin: 0;
+header h1, header h2 {
+   text-align: center;
 }
