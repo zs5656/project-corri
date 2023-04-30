@@ -1,13 +1,29 @@
-div img {
-   width: 15%;
-   margin: 10px;
-   border: solid black 2.5px;
-}
-
-.background{
+.background {
    width: 100%;
 }
 
 header h1, header h2 {
    text-align: center;
+}
+
+a {
+   text-decoration: none;
+}
+
+.nav-spacing {
+   margin: 0 0 0 10px;
+}
+
+img.sampleimg {
+   float: left; 
+   height: 200px; 
+   border: solid black 2.5px; 
+   margin: 0 40px 0 0;
+   width: 15%;
+   margin: 10px;
+   border: solid black 2.5px;
+}
+
+.title {
+   margin: 0 0 50px 0;
 }
