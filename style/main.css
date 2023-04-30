@@ -1,0 +1,17 @@
+a {
+   text-decoration: none;
+   color: red;
+}
+
+div a {
+   color: green;
+}
+
+li a {
+   color: purple;
+}
+
+div {
+   border: 1px solid black;
+}
+
